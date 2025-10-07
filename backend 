@@ -1,0 +1,9 @@
+Estagia-Ao/
+ ├── backend/
+ │   ├── package.json
+ │   ├── server.js
+ │   ├── node_modules/
+ │   └── ...
+ └── frontend/
+     ├── package.json
+     ├── src/
