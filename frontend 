@@ -1,0 +1,7 @@
+Estagia-Ao/
+ ├── backend/
+ ├── frontend/
+ │   ├── package.json
+ │   ├── src/
+ │   ├── public/
+ │   └── ...
